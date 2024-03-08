@@ -1,0 +1,8 @@
+.elementor-98 .elementor-element.elementor-element-92bda7a{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-98 .elementor-element.elementor-element-8211604{--display:flex;--background-transition:0.3s;}.elementor-98 .elementor-element.elementor-element-db534ce{--n-menu-dropdown-content-max-width:initial;--n-menu-open-animation-duration:500ms;--n-menu-toggle-icon-wrapper-animation-duration:500ms;--n-menu-heading-wrap:wrap;--n-menu-heading-overflow-x:initial;--n-menu-title-space-between:0px;--n-menu-title-distance-from-content:0px;--n-menu-title-font-size:16px;--n-menu-title-transition:300ms;--n-menu-icon-size:16px;--n-menu-toggle-icon-size:20px;--n-menu-toggle-icon-hover-duration:500ms;--n-menu-toggle-icon-distance-from-dropdown:0px;}.elementor-98 .elementor-element.elementor-element-db534ce > .elementor-widget-container > .e-n-menu > .e-n-menu-wrapper > .e-n-menu-heading > .e-n-menu-title, .elementor-98 .elementor-element.elementor-element-db534ce > .elementor-widget-container > .e-n-menu > .e-n-menu-wrapper > .e-n-menu-heading > .e-n-menu-title > .e-n-menu-title-text, .elementor-98 .elementor-element.elementor-element-db534ce > .elementor-widget-container > .e-n-menu > .e-n-menu-wrapper > .e-n-menu-heading > .e-n-menu-title  > a.e-n-menu-title-link > .e-n-menu-title-text{font-family:"Syne", Sans-serif;font-weight:500;}/* Start custom CSS for container, class: .elementor-element-92bda7a */.footer{
+    display: flex;
+width: 1440px;
+height: 60px;
+padding: 20px 0px 21px 0px;
+justify-content: center;
+align-items: center;
+}/* End custom CSS */
