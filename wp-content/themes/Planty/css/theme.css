@@ -1,2 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400..800&display=swap');
+
+
+body* {
+    font-family: 'Syne', sans-serif;
+}
+
 /*HEADER*/
+
+#site-header {
+    position: sticky;
+    width: 1440px;
+    height: 80px;
+    flex-shrink: 0;
+}
+
+#site-logo #site-logo-inner a img {
+    width: 201px;
+    height: 19px;
+    flex-shrink: 0;
+}
